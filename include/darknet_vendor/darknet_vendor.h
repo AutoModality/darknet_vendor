@@ -15,7 +15,7 @@
 #ifndef DARKNET_VENDOR__DARKNET_VENDOR_H_
 #define DARKNET_VENDOR__DARKNET_VENDOR_H_
 
-#include <darknet.h>
+#include <darknet_vendor/darknet.h>
 #include <darknet_vendor/version.h>
 
 #endif  // DARKNET_VENDOR__DARKNET_VENDOR_H_
